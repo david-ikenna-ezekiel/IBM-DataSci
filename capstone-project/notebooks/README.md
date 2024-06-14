@@ -1,0 +1,2 @@
+# Best-Locations-to-Site-Shopping-Malls-in-Lagos-Venues-Data-Analysis-of-Lagos-Neighbourhoods
+In this project, I tried to;  Find an optimal location for a Shopping Mall in Lagos. Since there are a number of Shopping Malls in Lagos, I tried to detect locations that are already crowded with Shopping malls, then spot locations that are less condensed with Shopping malls. Explore business opportunities across Lagos Neighbourhoods by identifying top venues in Lagos and the business activities within
